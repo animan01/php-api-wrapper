@@ -5,6 +5,8 @@ namespace Unisender\ApiWrapper;
 /**
  * API UniSender.
  *
+ * @version v1.4.
+ *
  * @link https://www.unisender.com/en/support/integration/api/
  * @link https://www.unisender.com/ru/support/integration/api/
  *
